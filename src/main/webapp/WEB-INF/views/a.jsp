@@ -9,5 +9,6 @@
 <body>
 <h1>나는 bit 브랜치 입니다</h1>
 <h1>오늘 로그인 작업을 완성 했습니다</h1>
+<img src="./res/1.jpg" width="300" border="5">
 </body>
 </html>
